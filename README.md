@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fernanda, or just Fer! @FerSotoApse
+- 👋 Hi, I’m Fernanda, or just Fer!
 - 👀 Mainly interested in design and architecture related projects, but I’m open to all knowledge
 - 🌱 I’m a trainee currently perfecting my python coding skills and learning new machine learning/AI and data visualisation libraries while developing small solutions
 - 💞️ Open to collaborate on machine/deep learning projects
